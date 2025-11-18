@@ -37,8 +37,8 @@ A full-stack Job Portal web application where users can browse and apply for job
 ## Tech Stack
 
 - **Frontend:** React, TypeScript, TailwindCSS, Vite  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB (or MySQL if you are using it)  
+- **Backend:** java, Spring Boot  
+- **Database:** Mysql 
 - **Authentication:** JWT for secure login  
 - **Version Control:** Git, GitHub
 
